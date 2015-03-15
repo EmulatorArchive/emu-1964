@@ -1,0 +1,20 @@
+emu-1964
+Open Source N64 Emulator
+
+1964(unofficial) Download
+
+Revision	Download Links
+r146	http://adf.ly/CUoLJ
+r109	http://adf.ly/CUocl
+
+About
+
+1964 is a Nintendo emulator made by Schibo and Rice. It is one of the top Nintendo emulators arround that you can get with a high game compatibility rate.
+
+NOTE: If your just after the video plugin use the following link. http://emu-1964.googlecode.com/svn/src/1964Video/
+
+Screenshots
+
+To compile the 1964 video plugin you require the DirectX 8.1 SDK available from the following link http://www.darwinbots.com/numsgil/dx81sdk_full.exe
+
+(Saved: March 14, 2015)
